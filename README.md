@@ -64,3 +64,6 @@ Below are reconstruction plots for different failure types, comparing the baseli
 
 https://drive.google.com/drive/folders/1VdQBex_KjnO9MbtvfjZtfBq3zJHJHwMw?usp=sharing
 
+---
+
+This work was supported by the HORIZON Europe Programme - HARIA Project, Grant agreement 101070292 and by FCT through the LASIGE Research Unit, ref. UID/00408/2023
